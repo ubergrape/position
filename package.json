@@ -1,0 +1,14 @@
+{
+	"name": "position",
+	"description": "Returns element's position relative to document, window, or other elements.",
+	"version": "1.0.0",
+	"keywords": [
+		"position",
+		"element"
+	],
+	"main": "index.js",
+	"dependencies": {
+		"iswindow": "ubergrape/iswindow"
+	},
+	"license": "MIT"
+}
