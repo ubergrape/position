@@ -8,7 +8,7 @@
 	],
 	"main": "index.js",
 	"dependencies": {
-		"iswindow": "https://github.com/ubergrape/iswindow.git#a00e54ba827a7e65d6723792be2e66910d654c59"
+		"iswindow": "https://github.com/ubergrape/iswindow.git"
 	},
 	"license": "MIT"
 }
